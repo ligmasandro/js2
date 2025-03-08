@@ -1,0 +1,9 @@
+.div-1 {
+  width: 400px;
+  height: 200px;
+  color: red;
+  justify-content: center;
+  display: flex;
+  background-color: black;
+  font-size: 40px;
+}
